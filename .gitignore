@@ -1,0 +1,6 @@
+## Gitignore
+
+*.pdf
+
+# IDEs
+*.vscode
