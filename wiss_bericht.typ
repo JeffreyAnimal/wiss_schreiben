@@ -2,35 +2,25 @@
 #import "templates/helper.typ" : Code, Table, Image
 
 #show: thesis.with(
-  title: "Title",
+  title: "Title", //TODO
   authors: (
-    (name: "Surname, Name",
-    affiliation: "Company",
-    matrikel: "1234567",
-    email: "foo@bar.com",
-    semester: "WS/SS 202x/202x"
+    (name: "Reisacher, Fabian",
+    affiliation: [],
+    matrikel: "1234567", //TODO
+    email: "reisacherfa88045@th-nuernberg.de",
+    semester: "SS 2024"
     ), 
       ),
-  bibfile: "literature.bib",
-  abstract:"Abstract text here.",
+  bibfile: "wiss_bericht.bib",
+  abstract: [],
 )
 
-= My Project
+= Textzusammenfassung
 
-MyText @link-name
+//TODO
 
-My inline Formula $a^2 + b^2 = c^2$
+= Priorisierung der Literatur
 
+//TODO
 
-My Formula Block:
-$
-sum_(i=0)^n i^2
-$
-
-Citation @literature1
-
-#Image(
-  [Image Text.],
-  "assets/example.jpg",
-  width: 60%
-) <link-name>
+//TOOD min 5000 Zeichen
