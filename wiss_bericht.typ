@@ -2,7 +2,7 @@
 #import "templates/helper.typ" : Code, Table, Image
 
 #show: thesis.with(
-  title: "Title", //TODO
+  title: "Integrated Computational Materials Engineering",
   authors: (
     (name: "Reisacher, Fabian",
     affiliation: [],
