@@ -21,6 +21,10 @@
 
 = Priorisierung der Literatur
 
-//TODO
+// //TODO 2 bis 3 Titel  mit Kapitel aus Literatur welche besonders Wichtig erscheinen und begründen. (min. 4 Sätze).
+Die Fachbücher Foo /* TODO @cite */  und Bar /* TODO @cite */ sind besonders wichtig, weil... Hier wird ausführlich auf ... eingegangen.
+
+//TODO 4 Sätze
+
 
 //TOOD min 5000 Zeichen
