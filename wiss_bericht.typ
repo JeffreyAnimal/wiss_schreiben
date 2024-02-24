@@ -2,7 +2,7 @@
 #import "templates/helper.typ" : Code, Table, Image
 
 #show: thesis.with(
-  title: "Integrated Computational Materials Engineering",
+  title: "Einführung in Integrated Computational Materials Engineering",
   authors: (
     (name: "Reisacher, Fabian",
     affiliation: [],
@@ -17,14 +17,14 @@
 
 = Textzusammenfassung
 
-//TODO
+TODO
 
 = Priorisierung der Literatur
 
-// //TODO 2 bis 3 Titel  mit Kapitel aus Literatur welche besonders Wichtig erscheinen und begründen. (min. 4 Sätze).
-Die Fachbücher Foo /* TODO @cite */  und Bar /* TODO @cite */ sind besonders wichtig, weil... Hier wird ausführlich auf ... eingegangen.
-
-//TODO 4 Sätze
-
+Das Paper von Bolcavage @bolcavageIntegratedComputationalMaterials2014 und das Fachbuch von der National Academies Press @IntegratedComputationalMaterials2008c sind besonders wichtig, da sie eine gute Einführung in das Thema geben.
+Zum einen wird auf die Herausforderungen, die ICME bringt, eingegangen.
+Zusätzlich werden aber auch die Möglichkeiten beleuchtet, die ICME bietet.
+Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung von ICME Systemen in die Industrie eingegangen.
+Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
 //TOOD min 5000 Zeichen
