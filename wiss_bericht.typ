@@ -1,6 +1,7 @@
 #import "templates/thesisTemplate.typ": thesis
 #import "templates/helper.typ" : Code, Table, Image
 
+#set bibliography(full: true)
 #show: thesis.with(
   title: "Einführung in Integrated Computational Materials Engineering",
   authors: (
