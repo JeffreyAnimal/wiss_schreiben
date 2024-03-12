@@ -13,6 +13,8 @@
     ), 
       ),
   bibfile: "wiss_bericht.bib",
+  show_tables: false,
+  show_images: false,
   abstract: [],
 )
 
