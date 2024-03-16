@@ -13,8 +13,8 @@
     ), 
       ),
   bibfile: none,
-  // show_tables: false,
-  // show_images: false,
+  show_tables: false,
+  show_images: false,
   abstract: [],
 )
 
@@ -39,4 +39,10 @@ Zusätzlich werden aber auch die Möglichkeiten beleuchtet, die ICME bietet.
 Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung von ICME Systemen in die Industrie eingegangen.
 Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
-//TOOD min 5000 Zeichen
+#pagebreak()
+#bibliography(title: "Literaturverzeichnis", "wiss_bericht.bib")
+
+#pagebreak()
+= Anhang
+
+Ich habe für die Recherche dieses Dokuments keine KI-Tools verwendet.
