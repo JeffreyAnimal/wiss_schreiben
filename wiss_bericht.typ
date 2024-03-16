@@ -45,4 +45,4 @@ Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugz
 #pagebreak()
 = Anhang
 
-Ich habe für die Recherche dieses Dokuments keine KI-Tools verwendet.
+Für die Recherche dieses Dokuments wurden keine KI-Tools verwendet.
