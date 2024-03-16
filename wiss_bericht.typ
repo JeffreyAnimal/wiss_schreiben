@@ -27,8 +27,8 @@ Weiterhin wird beleuchtet, dass ICME nicht nur auf die Designphase beschränkt i
 
 In Bezug auf Zeit- und Kostenreduzierung wird darauf eingegangen, dass es nötig ist mehrere Wissensquellen zu vereinen um eine Quelle für das Treffen von Entscheidungen zu erschaffen.
 Dazu gehören Entwicklungsmodelle zu aktualisieren, zum Beispiel durch experimentell gewonnenen Daten und Expertenwissen @bolcavageIntegratedComputationalMaterials2014[p.~8].
-//TODO direktes Zitat
-//TOOD min 5000 Zeichen
+
+ICME ist somit nützlich um "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[p.~10].
 
 = Priorisierung der Literatur
 
@@ -39,7 +39,8 @@ Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung v
 Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
 #pagebreak()
-#bibliography(title: "Literaturverzeichnis", "wiss_bericht.bib")
+= Literaturverzeichnis
+#bibliography( title: none, "wiss_bericht.bib")
 
 #pagebreak()
 = Anhang
