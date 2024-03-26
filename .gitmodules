@@ -1,3 +1,6 @@
 [submodule "templates"]
 	path = templates
 	url = git@github.com:JeffreyAnimal/templates-typst.git
+[submodule "ohm_template"]
+	path = ohm_template
+	url = git@github.com:vimkat/typst-ohm.git
