@@ -1,7 +1,7 @@
 #import "templates/helper.typ" : Code, Table, Image
 #import "ohm_template/src/templates/thesis.typ": thesis
 
-#set bibliography(full: true)
+#set bibliography(full: true, style: "ieee")
 #show: thesis.with(
   title: "Einführung in Integrated Computational Materials Engineering",
   author: 
@@ -19,17 +19,17 @@
 = Textzusammenfassung
 In dem Paper von Boclavage @bolcavageIntegratedComputationalMaterials2014 wird an einem Anwendungsbeispiel gezeigt, wie Integrated Computational Materials Engineering (ICME) in die Entwicklung einer Turbine von Rolls Royce einfließt.
 Zu Beginn wird in einem Recap die Grundidee hinter ICME wiederholt.
-Dabei geht es um das Einfließen von physikalischen Computermodellen in den Designprozess von Bauteilen @bolcavageIntegratedComputationalMaterials2014[p.~2] um Kosten während der Entwicklung zu reduzieren.
-Diese Einsparungen beziehen sich zum Beispiel auf die Vorhersage von Spannungen in Gussbauteilen und somit dem Reduzieren von Ausschuss @bolcavageIntegratedComputationalMaterials2014[p.~3].
+Dabei geht es um das Einfließen von physikalischen Computermodellen in den Designprozess von Bauteilen @bolcavageIntegratedComputationalMaterials2014[S.~2] um Kosten während der Entwicklung zu reduzieren.
+Diese Einsparungen beziehen sich zum Beispiel auf die Vorhersage von Spannungen in Gussbauteilen und somit dem Reduzieren von Ausschuss @bolcavageIntegratedComputationalMaterials2014[S.~3].
 Zur Entwicklung eines Bauteils gehört auch die Auswahl von Materialien.
-Ohne ICME ist das Entwickeln von Materialien mit gewünschten Eigenschaften auf eine Datenbank von Materialien beschränkt, deren Eigenschaften experimentell validiert werden @bolcavageIntegratedComputationalMaterials2014[p.~13].
-Durch die Nutzung eines ICME Systems können jedoch Materialeigenschaften und Geometrie parallel berücksichtigt werden @bolcavageIntegratedComputationalMaterials2014[p.~13].
+Ohne ICME ist das Entwickeln von Materialien mit gewünschten Eigenschaften auf eine Datenbank von Materialien beschränkt, deren Eigenschaften experimentell validiert werden @bolcavageIntegratedComputationalMaterials2014[S.~13].
+Durch die Nutzung eines ICME Systems können jedoch Materialeigenschaften und Geometrie parallel berücksichtigt werden @bolcavageIntegratedComputationalMaterials2014[S.~13].
 
-Weiterhin wird beleuchtet, dass ICME nicht nur auf die Designphase beschränkt ist, sondern auch in Produktentwicklung, Markteinführung und dem Management von Lebenszyklen der Bauteile einbezogen werden kann @bolcavageIntegratedComputationalMaterials2014[p.~6].
+Weiterhin wird beleuchtet, dass ICME nicht nur auf die Designphase beschränkt ist, sondern auch in Produktentwicklung, Markteinführung und dem Management von Lebenszyklen der Bauteile einbezogen werden kann @bolcavageIntegratedComputationalMaterials2014[S.~6].
 In Bezug auf Zeit- und Kostenreduzierung wird darauf eingegangen, dass es nötig ist mehrere Wissensquellen zu vereinen um eine Quelle für das Treffen von Entscheidungen zu erschaffen.
-Dazu gehört das Aktualisieren von Entwicklungsmodellen wie zum Beispiel mittels experimentell gewonnenen Daten oder Expertenwissen @bolcavageIntegratedComputationalMaterials2014[p.~8].
+Dazu gehört das Aktualisieren von Entwicklungsmodellen wie zum Beispiel mittels experimentell gewonnenen Daten oder Expertenwissen @bolcavageIntegratedComputationalMaterials2014[S.~8].
 
-ICME ist somit nützlich "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[p.~10].
+ICME ist somit nützlich "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[S.~10].
 
 = Priorisierung der Literatur
 
