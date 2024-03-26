@@ -1,21 +1,19 @@
-#import "templates/thesisTemplate.typ": thesis
 #import "templates/helper.typ" : Code, Table, Image
+#import "ohm_template/src/templates/thesis.typ": thesis
 
 #set bibliography(full: true)
 #show: thesis.with(
   title: "Einführung in Integrated Computational Materials Engineering",
-  authors: (
+  author: 
     (name: "Reisacher, Fabian",
     affiliation: [],
     matrikel: "3627860",
     email: "reisacherfa88045@th-nuernberg.de",
     semester: "SS 2024"
-    ), 
       ),
-  bibfile: none,
-  show_tables: false,
-  show_images: false,
-  abstract: [],
+  type: "Wissenschaftlicher Bericht",
+  bibliography-file: none,
+  abstract: none,
 )
 
 = Textzusammenfassung
