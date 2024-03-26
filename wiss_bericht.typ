@@ -1,7 +1,7 @@
 #import "templates/helper.typ" : Code, Table, Image
 #import "ohm_template/src/templates/thesis.typ": thesis
 
-#set bibliography(full: true, style: "ieee")
+#set bibliography(full: true)
 #show: thesis.with(
   title: "Einführung in Integrated Computational Materials Engineering",
   author: 
@@ -30,19 +30,18 @@ In Bezug auf Zeit- und Kostenreduzierung wird darauf eingegangen, dass es nötig
 Dazu gehört das Aktualisieren von Entwicklungsmodellen wie zum Beispiel mittels experimentell gewonnenen Daten oder Expertenwissen @bolcavageIntegratedComputationalMaterials2014[S.~8].
 
 // ICME ist somit nützlich "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[S.~10].
-
 ICME ist somit nützlich "[...] um auf Anhieb richtige Lösungen zu liefern, welche die Anforderungen erfüllen, während teure physikalische Testdurchläufe minimiert oder eliminiert werden@bolcavageIntegratedComputationalMaterials2014[S.~10].
 
 = Priorisierung der Literatur
 
-Das Paper von Bolcavage @bolcavageIntegratedComputationalMaterials2014 und das Fachbuch von der National Academies Press @IntegratedComputationalMaterialsd sind besonders wichtig, da sie eine gute Einführung in das Thema geben.
+Das Paper von Bolcavage @bolcavageIntegratedComputationalMaterials2014 und das Fachbuch von der National Academies Press @allisonIntegratedComputationalMaterials2008 sind besonders wichtig, da sie eine gute Einführung in das Thema geben.
 Zum einen wird auf die Herausforderungen die ICME bringt, eingegangen.
 Zusätzlich werden aber auch die Möglichkeiten beleuchtet, die ICME bietet.
 Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung von ICME Systemen in die Industrie eingegangen.
 Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
 #pagebreak()
-#bibliography( title: "Literaturverzeichnis", "wiss_bericht.bib")
+#bibliography(title: "Literaturverzeichnis", "wiss_bericht.bib")
 
 #pagebreak()
 
