@@ -29,7 +29,9 @@ Weiterhin wird beleuchtet, dass ICME nicht nur auf die Designphase beschränkt i
 In Bezug auf Zeit- und Kostenreduzierung wird darauf eingegangen, dass es nötig ist mehrere Wissensquellen zu vereinen um eine Quelle für das Treffen von Entscheidungen zu erschaffen.
 Dazu gehört das Aktualisieren von Entwicklungsmodellen wie zum Beispiel mittels experimentell gewonnenen Daten oder Expertenwissen @bolcavageIntegratedComputationalMaterials2014[S.~8].
 
-ICME ist somit nützlich "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[S.~10].
+// ICME ist somit nützlich "[...] to deliver 'Right First Time' solutions that meet the requirements while minimizing or eliminating expensive physical trials" @bolcavageIntegratedComputationalMaterials2014[S.~10].
+
+ICME ist somit nützlich "[...] um auf Anhieb richtige Lösungen zu liefern, welche die Anforderungen erfüllen, während teure physikalische Testdurchläufe minimiert oder eliminiert werden@bolcavageIntegratedComputationalMaterials2014[S.~10].
 
 = Priorisierung der Literatur
 
