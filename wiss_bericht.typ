@@ -42,10 +42,12 @@ Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung v
 Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
 #pagebreak()
-= Literaturverzeichnis
-#bibliography( title: none, "wiss_bericht.bib")
+#bibliography( title: "Literaturverzeichnis", "wiss_bericht.bib")
 
 #pagebreak()
+
+#set heading(numbering:none)
+
 = Anhang
 
-Für die Recherche dieses Dokuments wurden keine KI-Tools verwendet.
+Für die Recherche und das Verfassen dieses Dokuments wurden keine KI-Tools verwendet.
