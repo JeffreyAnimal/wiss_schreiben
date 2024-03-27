@@ -1,5 +1,5 @@
 #import "templates/helper.typ" : Code, Table, Image
-#import "ohm_template/src/templates/thesis.typ": thesis
+#import "ohm_templates/src/templates/thesis.typ": thesis
 
 #set bibliography(full: true)
 #show: thesis.with(
@@ -7,12 +7,13 @@
   author: 
     (name: "Reisacher, Fabian",
     affiliation: [],
-    matrikel: "3627860",
+    student-id: "3627860",
     email: "reisacherfa88045@th-nuernberg.de",
     semester: "SS 2024"
       ),
   type: "Wissenschaftlicher Bericht",
   bibliography-file: none,
+  show_chapters: true,
   abstract: none,
 )
 
@@ -41,7 +42,7 @@ Zuletzt wird auch auf die Herausforderungen für eine erfolgreiche Einführung v
 Bolcavage zeigt wiederum anhand eines praktischen Beispiels, in Form eines Flugzeugtriebwerks, in welchen Schritten und bei welchen Prozessen die Nutzung ICME in der Entwicklung einen erheblichen Kostenvorteil mit sich bringt. 
 
 #pagebreak()
-#bibliography(title: "Literaturverzeichnis", "wiss_bericht.bib")
+#bibliography(title: "Literaturverzeichnis", "wiss_bericht.bib", style: "ieee")
 
 #pagebreak()
 
